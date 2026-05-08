@@ -1,0 +1,41 @@
+/* font family */
+#one{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.two{
+    font-size: larger;
+}
+.three{
+    font-weight: bolder;
+}
+/* font style */
+.three{
+    font-style: oblique;
+}
+
+/* text properties */
+#p1{
+    color: chocolate;
+}
+
+/* text align */
+.p2{
+    text-align: center;
+}
+/* text decoration */
+.p3{
+    text-decoration: overline;
+
+}
+body{
+    background-color: chartreuse;
+}
+
+
+/* background image */
+.div{
+    background-image: url(image.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}

@@ -1,0 +1,12 @@
+.box{
+    width:200px;
+    background-color: brown;
+    /* margin */
+    margin:20px;
+    margin-left:40px;
+    margin: 10px 20px 10px 20px;
+    /* padding */
+    padding:15px;
+    /* border */
+    border:3px dashed green;
+}

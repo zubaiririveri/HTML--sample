@@ -1,0 +1,40 @@
+.box{
+    position: static;
+    top: 20px;
+    bottom: 20px;
+    background-color: aqua;
+}
+.box1{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    background-color: blueviolet;
+}
+.box2{
+    position: absolute;
+    top: 60px;
+    left:15px;
+    background-color: brown;
+}
+.box3{
+    position: fixed;
+    background-color: cadetblue;
+    bottom:10x;
+    right:10px;
+    top:100px;
+}
+.box4{
+    position: sticky;
+    top: 0;
+    background-color: coral;
+    
+}
+p{
+    height:1000px;
+}
+.box5{
+    width:150px;
+    white-space: nowrap;
+    border:4px solid blue;
+    
+}

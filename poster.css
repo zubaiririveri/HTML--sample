@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(22, 17, 58);
+    color: white;
+    background-image: -moz-linear-gradient()z;
+}
+.navlink{
+   
+    display: flex;
+    font-size: 14px;
+    gap: 35px;
+    list-style: none;
+}
+.btn{
+  text-decoration: none;
+    background: #fcb62a;
+    color: white;
+
+    transition: 0.3s;
+    justify-content: end;
+}
+.hcontent{
+     width:90%;
+    height:90%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 80px;
+    position:relative;
+    z-index:2;
+}
+.navlink{
+        gap:15px;
+        flex-wrap:wrap;
+        justify-content:center;
+}
+
+.logo{
+    font-size: 32px;
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    border: 2px solid  blue;
+    height: 150px;
+    gap: 10px;
+}
+.box{
+    color: rgb(254, 253, 255);
+    padding: 20px;
+    font-size: 20px;
+}
+
+.box1{
+    background-color: chocolate;
+    flex: 1;
+}
+.box2{
+    background-color: brown;
+    flex: 2;
+}
+.box3{
+    background-color: cyan;
+    flex: 1;
+    order: -1;
+}

@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    gap:10px;
+    text-align: center;
+    height: 500px;
+    align-items: center;
+   /* flex-direction: row-reverse;*/
+    color: black
+   /* justify-content: space-evenly;*/
+   
+   
+    
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+}
